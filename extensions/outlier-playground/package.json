@@ -1,0 +1,12 @@
+{
+  "name": "@openclaw/outlier-playground",
+  "version": "2026.3.4",
+  "private": true,
+  "description": "OpenClaw Outlier Playground provider plugin",
+  "type": "module",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
