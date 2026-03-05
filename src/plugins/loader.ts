@@ -142,6 +142,11 @@ const pluginSdkScopedAliasEntries = [
     distFile: "nextcloud-talk.js",
   },
   { subpath: "nostr", srcFile: "nostr.ts", distFile: "nostr.js" },
+  {
+    subpath: "outlier-playground",
+    srcFile: "outlier-playground.ts",
+    distFile: "outlier-playground.js",
+  },
   { subpath: "open-prose", srcFile: "open-prose.ts", distFile: "open-prose.js" },
   {
     subpath: "phone-control",

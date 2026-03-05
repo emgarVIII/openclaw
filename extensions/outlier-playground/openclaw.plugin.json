@@ -1,0 +1,9 @@
+{
+  "id": "outlier-playground",
+  "providers": ["outlier-playground"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
